@@ -9,4 +9,4 @@
 - SCSS
 - Java Script
 
-<img width="1675" src="https://raw.githubusercontent.com/ArnasLuksas/Random-Quotes-Project/master/img/Screenshot%202021-02-17%20at%2017.05.43.png">
+<img width="1675" target="_blank" src="https://raw.githubusercontent.com/ArnasLuksas/Random-Quotes-Project/master/img/Screenshot%202021-02-17%20at%2017.05.43.png">
